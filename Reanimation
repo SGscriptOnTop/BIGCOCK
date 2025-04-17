@@ -21,7 +21,7 @@ local function showIntro()
     introLabel.Size = UDim2.new(1, 0, 1, 0)
     introLabel.Position = UDim2.new(0, 0, 0, 0)
     introLabel.BackgroundTransparency = 1
-    introLabel.Text = "SG-SCRIPTS"  -- Text wie im Original, kann angepasst werden
+    introLabel.Text = "Made by DADDY X1MV_SAMET"  -- Text wie im Original, kann angepasst werden
     introLabel.Font = Enum.Font.GothamBlack
     introLabel.TextScaled = true
     introLabel.TextColor3 = Color3.new(1, 1, 1)
